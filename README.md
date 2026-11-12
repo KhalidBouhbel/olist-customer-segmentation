@@ -17,6 +17,10 @@ transactions and assess how stable the segments are over time.
    solution, and compares assignments across time windows using the adjusted
    Rand index.
 
+## Presentation
+
+[View the original project presentation (PDF, in French)](docs/Projet5_presentation.pdf)
+
 ## Reproduce the analysis
 
 Download the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
