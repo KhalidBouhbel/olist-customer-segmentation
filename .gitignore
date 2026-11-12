@@ -1,0 +1,7 @@
+/.venv/
+/data/
+/models/
+/data_client_cleaned.csv
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
